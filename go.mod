@@ -1,3 +1,3 @@
-module nome-do-seu-projeto
+module teste
 
-go 1.21.6
+go 1.15
